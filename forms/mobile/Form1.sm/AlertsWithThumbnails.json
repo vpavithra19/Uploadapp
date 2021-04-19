@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sbf6d717f34c499baa1d81c07ac512a0",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {},
+    "enablescrolling": true,
+    "id": "AlertsWithThumbnails",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e6374f5abc444a5c883c10b2b8f56857",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Form1",
+    "pf": "Form1",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ua6f6e18af9746b6939b3e057b8e83b9",
+    "wType": "UserWidgetInstance"
+}
